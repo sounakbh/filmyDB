@@ -1,0 +1,17 @@
+body {
+    background-color:#23272a;
+}
+
+.title {
+    margin-left: 30px;
+    font-size: 60px;
+    color: #c79dd7;
+    font-family: 'Dancing Script', cursive;
+}
+
+.content {
+    margin-left: 30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}

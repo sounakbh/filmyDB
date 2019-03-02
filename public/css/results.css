@@ -1,0 +1,44 @@
+body {
+    background-color:#23272a;
+}
+
+.movie_image {
+    text-align: center;
+}
+
+.movie_image img {
+    height: 350px;
+    width: 260px;
+    border: 5px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 4px black;
+}
+
+.movie_details {
+    text-align: center;
+}
+
+.movie_details div {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: white;
+}
+
+.movie_details a {
+    border: 2px solid #f9d62e;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border-width: 3.5px;
+    box-shadow: 2px 2px  grey;
+}
+
+.main_body {
+    padding-bottom: 50px;
+}
+
+hr{
+    color: white;
+}
+

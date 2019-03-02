@@ -1,0 +1,45 @@
+body {
+    background-color:#23272a;
+}
+
+.movie_title {
+    text-align: center;
+    font-size: 60px;
+    color: #c79dd7;
+    font-family: 'Dancing Script', cursive;
+}
+
+.movie_image {
+     padding-top: 20px;
+}
+
+.movie_image img {
+    display: block;
+    margin: auto;
+    height: 350px;
+    width: 260px;
+    border: 5px solid white;
+    border-radius: 3px;
+}
+
+.overview {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.overview h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+
+}
+
+.feature {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.feature strong {
+    color: #f9d62e;
+}
