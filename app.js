@@ -41,7 +41,8 @@ app.get('/about', function(req, res) {
 	res.render('about');
 });
 
+const port = process.env.PORT || 3000
 
-app.listen(3000, process.env.IP, function() {
+app.listen(port, process.env.IP, function() {
 	console.log("Movie App has started");
 });
